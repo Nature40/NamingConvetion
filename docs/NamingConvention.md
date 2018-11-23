@@ -24,6 +24,7 @@ This describes the type of plot. The encoding is derived from the entity's Engli
 | cbh | Cableways (horizontal) |
 | cbv | Cableways (vertical) |
 | clm | Climate station |
+| rts | Radio tracking station |
 | rve | Rovers |
 | Humans | |
 | exp | Expert |
