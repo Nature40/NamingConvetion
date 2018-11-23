@@ -29,7 +29,6 @@ This describes the type of plot. The encoding is derived from the entity's Engli
 | Humans | |
 | exp | Expert |
 | std | Student |
-| class | School or university class |
 | ppl | Pupil |
 | Animals | |
 | bat | Bats |
