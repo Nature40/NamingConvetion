@@ -17,19 +17,27 @@ This describes the type of plot. The encoding is derived from the entity's Engli
 
 | Entity | Description |
 |--|--|
-| Stationary entities ||
-| clim | Climate stations |
-| tele | Telemetry plots |
-| cstr  | Trees (core study trees) |
-| stru | Structure plots |
-| Mobile entities ||
-| bats | Bats |
-| bird | Birds |
-| cabh | Cableways (horizontal) |
-| cabv | Cableways (vertical) |
-| deer | Deers |
-| hors | Horses |
-| rove | Rovers |
+| Places | |
+| plt  | Study plots |
+| cst  | Trees (core study trees) |
+| Technical | |
+| cbh | Cableways (horizontal) |
+| cbv | Cableways (vertical) |
+| clm | Climate station |
+| rve | Rovers |
+| Humans | |
+| exp | Expert |
+| std | Student |
+| class | School or university class |
+| ppl | Pupil |
+| Animals | |
+| bat | Bats |
+| brd | Birds |
+| der | Deers |
+| hrs | Horses |
+
+
+
 
 ### Five-digit number sequence for ongoing numbering
 This numbers the individual entities.
