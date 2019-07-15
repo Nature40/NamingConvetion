@@ -1,5 +1,3 @@
-
-  
 # Naming conventions in Nature 4.0 
 ## Naming conventions for study locations and sensor platforms
 
